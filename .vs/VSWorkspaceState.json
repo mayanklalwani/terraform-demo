@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Local settings (.vs)",
+    "\\Local settings (.vs)\\terraform-demo",
+    "\\Local settings (.vs)\\terraform-demo\\v16"
   ],
+  "SelectedNode": "\\provider.tf",
   "PreviewInSolutionExplorer": false
 }
